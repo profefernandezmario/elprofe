@@ -98,12 +98,13 @@ h2 {
     font-size: 1.1rem;
     font-weight: 700;
     box-shadow: 0 2px 8px rgba(10, 124, 255, 0.13);
-    transition: 
+    transition:
         transform 0.3s,
         box-shadow 0.3s,
         color 0.3s,
         background 0.3s;
     cursor: pointer;
+
 }
 
 .item:hover {
@@ -158,7 +159,7 @@ footer {
     /* Sombra y color inicial */
     text-shadow: 0 2px 8px #0a7cff;
     color: #fff;
- }
+}
 
 .anim-1 {
     opacity: 0;
@@ -169,6 +170,7 @@ footer {
     color: #fff;
     ;
 }
+
 .anim:nth-child(1) {
     animation-delay: 0.2s;
 }
@@ -191,18 +193,17 @@ footer {
         /* transform: translateY(0); */
         /* box-shadow: 0 4px 24px rgba(0, 0, 0, 0.2); */
         color: #222;
-
     }
 }
 
-.logo{
+.logo {
     width: 60%;
 }
 
 .container {
     display: grid;
     grid-template-columns: 70% 30%;
-    grid-template-rows: repeat(3,4rem);
+    grid-template-rows: repeat(3, 4rem);
     gap: 10px 10px;
     grid-auto-flow: row;
     grid-template-areas:
@@ -237,6 +238,78 @@ footer {
 
 @media (max-width:500px) {
     .logo {
-            width: 60%;
-        }
+        width: 60%;
+    }
+}
+
+.prod-1 {
+    background-image: url(Media/imagenes/prod-1-1.jpg);
+    height: 40px;
+    image-rendering: auto;
+    background-size: cover;
+    background-position: center;
+    text-shadow: 0 0 80px white;  
+}
+
+.prod-2 {
+    background-image: url(Media/imagenes/prod-2-2.png);
+    height: 40px;
+    image-rendering: auto;
+    background-size: cover;
+    background-position: center;
+    text-shadow: 0 0 80px white;  
+}
+
+.prod-3 {
+    background-image: url(Media/imagenes/prod-3-3.jpg);
+    height: 40px;
+    image-rendering: auto;
+    background-size: cover;
+    background-position: center;
+    text-shadow: 0 0 80px white;  
+}
+
+.prod-4 {
+    background-image: url(Media/imagenes/prod-4-4.jpg);
+    height: 40px;
+    image-rendering: auto;
+    background-size: cover;
+    background-position: center;
+    text-shadow: 0 0 80px white;  
+}
+
+.prod-5 {
+    background-image: url(Media/imagenes/prod-5-5.png);
+    height: 40px;
+    image-rendering: auto;
+    background-size: cover;
+    background-position: center;
+    text-shadow: 0 0 80px white;  
+}
+
+.prod-6 {
+    background-image: url(Media/imagenes/prod-6-6.jpg);
+    height: 40px;
+    image-rendering: auto;
+    background-size: cover;
+    background-position: center;
+    text-shadow: 0 0 80px white;  
+}
+
+.prod-7 {
+    background-image: url(Media/imagenes/prod-7-7.png);
+    height: 40px;
+    image-rendering: auto;
+    background-size: cover;
+    background-position: center;
+    text-shadow: 0 0 80px white;  
+}
+
+.prod-8 {
+    background-image: url(Media/imagenes/prod-8-8.png);
+    height: 40px;
+    image-rendering: auto;
+    background-size: cover;
+    background-position: center;
+    text-shadow: 0 0 80px white;  
 }
