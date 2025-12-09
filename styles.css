@@ -242,7 +242,7 @@ footer {
     }
 }
 
-.prod-1 {
+.prod-1:hover {
     background-image: url(Media/imagenes/prod-1-1.jpg);
     height: 40px;
     image-rendering: auto;
@@ -251,7 +251,7 @@ footer {
     text-shadow: 0 0 80px white;  
 }
 
-.prod-2 {
+.prod-2:hover {
     background-image: url(Media/imagenes/prod-2-2.png);
     height: 40px;
     image-rendering: auto;
@@ -260,7 +260,7 @@ footer {
     text-shadow: 0 0 80px white;  
 }
 
-.prod-3 {
+.prod-3:hover {
     background-image: url(Media/imagenes/prod-3-3.jpg);
     height: 40px;
     image-rendering: auto;
@@ -269,7 +269,7 @@ footer {
     text-shadow: 0 0 80px white;  
 }
 
-.prod-4 {
+.prod-4:hover {
     background-image: url(Media/imagenes/prod-4-4.jpg);
     height: 40px;
     image-rendering: auto;
@@ -278,7 +278,7 @@ footer {
     text-shadow: 0 0 80px white;  
 }
 
-.prod-5 {
+.prod-5:hover {
     background-image: url(Media/imagenes/prod-5-5.png);
     height: 40px;
     image-rendering: auto;
@@ -287,7 +287,7 @@ footer {
     text-shadow: 0 0 80px white;  
 }
 
-.prod-6 {
+.prod-6:hover {
     background-image: url(Media/imagenes/prod-6-6.jpg);
     height: 40px;
     image-rendering: auto;
@@ -296,7 +296,7 @@ footer {
     text-shadow: 0 0 80px white;  
 }
 
-.prod-7 {
+.prod-7:hover {
     background-image: url(Media/imagenes/prod-7-7.png);
     height: 40px;
     image-rendering: auto;
@@ -305,7 +305,7 @@ footer {
     text-shadow: 0 0 80px white;  
 }
 
-.prod-8 {
+.prod-8:hover {
     background-image: url(Media/imagenes/prod-8-8.png);
     height: 40px;
     image-rendering: auto;
