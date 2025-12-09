@@ -206,7 +206,7 @@ footer {
     gap: 10px 10px;
     grid-auto-flow: row;
     grid-template-areas:
-        "uno dos"
+        "uno uno"
         "tres cuatro"
         "cinco seis";
 }
